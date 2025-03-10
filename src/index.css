@@ -1,0 +1,5 @@
+@import "tailwindcss";
+body {
+    background-color: black;
+    color: white; /* Optional: To ensure text is visible on black background */
+  }
